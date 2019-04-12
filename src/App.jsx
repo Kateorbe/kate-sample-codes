@@ -7,7 +7,7 @@ import Footer from './components/footer.jsx';
 class App extends Component {
   render() {
 
-    console.log("Hello!");
+    console.log("IBM");
     
     return (
       
