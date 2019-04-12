@@ -1,0 +1,49 @@
+.body {
+    height: 400px;
+    background-color: rgb(193, 225, 230);
+    border-style: groove;
+    border-width: 3px;
+    border-color: #004D40;
+    color: black;
+}
+
+.div1 {
+    padding: 25px;
+    width: 50%;
+    float: left;
+    height: 88%;
+    border-right-color: #004D40;
+    border-right-style: groove;
+    border-right-width: 3px;
+    text-align: left;
+}
+
+.div1 input {
+    padding: 10px 30px;
+    margin: 5px 0px;
+    display: inline-block;
+    border: 2px solid #ccc;
+    box-sizing: border-box;
+}
+
+.div1 button {
+    background-color: rgb(241, 236, 239);
+    color: black;
+    padding: 10px 15px;
+    margin: 4px 0px;
+    border: black;
+    cursor: pointer;
+    width: 50%;
+    text-align: center;
+}
+
+.div1 button:hover {
+    opacity: 0.5;
+}
+
+.div2 {
+    float: right;
+    width: 40%;
+    padding: 20px;
+    text-align: left;
+}
