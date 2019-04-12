@@ -6,8 +6,11 @@ import Footer from './components/footer.jsx';
 
 class App extends Component {
   render() {
+
+    console.log("Hello!");
+    
     return (
-      console.log("Hello!");
+      
 
       <div className ='app'>
         <Header />
